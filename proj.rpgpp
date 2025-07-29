@@ -1,0 +1,6 @@
+{
+    "title": "TestProj",
+    "tilesets": "tilesets",
+    "maps": "maps",
+    "actors": "actors"
+}
