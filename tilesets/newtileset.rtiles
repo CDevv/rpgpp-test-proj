@@ -1,4 +1,6 @@
 {
     "source": "images/character.png",
-    "tileSize": 16
+    "tileSize": 16,
+    "tileWidth": 16,
+    "tileHeight": 16
 }
