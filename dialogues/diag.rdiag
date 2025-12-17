@@ -1,0 +1,28 @@
+{
+    "diag": [
+        [
+            "Character",
+            "My dialogue text!",
+            "0",
+            ""
+        ],
+        [
+            "Character",
+            "Spooky <red>RED</red> text!",
+            "1",
+            "xenith-portrait.png"
+        ],
+        [
+            "Character",
+            "Content <p>blep</p> ddd <red>some red</red> <red>RED</red>Loremipsume loprem ipsume.",
+            "1",
+            "xenith-portrait.png"
+        ],
+        [
+            "Character",
+            "woww",
+            "0",
+            ""
+        ]
+    ]
+}

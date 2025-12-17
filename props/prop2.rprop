@@ -1,0 +1,17 @@
+{
+    "atlas_rect": [
+        16,
+        16,
+        16,
+        16
+    ],
+    "collision_rect": [
+        0,
+        0,
+        16,
+        16
+    ],
+    "image": "images/xenith-portrait.png",
+    "has_interactable": false,
+    "interactable_type": 0
+}

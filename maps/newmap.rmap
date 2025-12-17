@@ -2,6 +2,10 @@
     "collision": [],
     "height": 25,
     "interactables": [],
+    "props": {},
+    "actors": {},
+    "start_pos": [0, 0],
+    "music_source": "",
     "map": [
         [
             [

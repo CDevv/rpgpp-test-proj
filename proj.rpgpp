@@ -1,6 +1,10 @@
 {
     "title": "TestProj",
+    "images": "images",
+    "fonts": "fonts",
+    "sounds": "sounds",
     "tilesets": "tilesets",
     "maps": "maps",
-    "actors": "actors"
+    "actors": "actors",
+    "dialogues": "dialogues"
 }
