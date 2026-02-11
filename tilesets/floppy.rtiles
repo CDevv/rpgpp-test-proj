@@ -1,6 +1,6 @@
 {
     "source": "images/Floppy_walking_animation_complete.png",
-    "tileSize": 60,
-    "tileWidth": 60,
-    "tileHeight": 60
+    "tileHeight": 60.0,
+    "tileSize": 60.0,
+    "tileWidth": 60.0
 }

@@ -13,5 +13,5 @@
     ],
     "has_interactable": true,
     "image": "images/prop.png",
-    "interactable_type": 1
+    "interactable_type": "diag"
 }

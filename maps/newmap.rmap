@@ -1,7 +1,7 @@
 {
     "collision": [],
     "height": 25,
-    "interactables": [],
+    "interactables": {},
     "props": {},
     "actors": {},
     "start_pos": [0, 0],
