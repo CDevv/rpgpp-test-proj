@@ -1,1 +1,2 @@
-print("fucker")
+print("fuc
+ker")

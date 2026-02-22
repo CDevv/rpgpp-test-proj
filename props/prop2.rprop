@@ -13,5 +13,5 @@
     ],
     "image": "images/xenith-portrait.png",
     "has_interactable": false,
-    "interactable_type": "diag"
+    "interactable_type": "dialogue"
 }
