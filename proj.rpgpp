@@ -1,5 +1,7 @@
 {
     "title": "TestProj",
+    "windowSize": [640, 480],
+    "programIcon": "",
     "images": "images",
     "fonts": "fonts",
     "sounds": "sounds",
