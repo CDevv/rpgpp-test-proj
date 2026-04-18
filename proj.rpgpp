@@ -1,12 +1,1 @@
-{
-    "title": "TestProj",
-    "windowSize": [640, 480],
-    "programIcon": "",
-    "images": "images",
-    "fonts": "fonts",
-    "sounds": "sounds",
-    "tilesets": "tilesets",
-    "maps": "maps",
-    "actors": "actors",
-    "dialogues": "dialogues"
-}
+{"defaultRoom":"maps/newmap.rmap","playerActor":"actors/krisactor.ractor","programIcon":"images/prop.png","targetFPS":60,"tileSize":16,"title":"TestProj","version":"","windowResizeable":false,"windowSize":[640,480],"windowState":0}
