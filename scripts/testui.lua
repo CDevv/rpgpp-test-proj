@@ -1,5 +1,5 @@
 function open()
-    view:ChangeFocus("value")
+    view:ChangeFocus("play")
 end
 
 function play()
